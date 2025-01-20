@@ -27,4 +27,4 @@ Follow the steps below to set up the Payment App on your local machine:
 ### 1. Clone the Repository
 Clone the repository to your local machine by running:
 ```bash
-git clone https://github.com/md-arin/Payment-App_MERN.git
+git clone https://github.com/Radhikagarg20/Digital-Payment-Clone.git
