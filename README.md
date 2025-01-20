@@ -22,8 +22,6 @@ This is a implementation of a **Payment App**, where users can transfer credits 
 
 ## Setup Instructions
 
-Follow the steps below to set up the Payment App on your local machine:
-
 ### 1. Clone the Repository
 Clone the repository to your local machine by running:
 ```bash
