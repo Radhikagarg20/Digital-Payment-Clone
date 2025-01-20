@@ -1,8 +1,6 @@
 # Digital-Payment-Clone
 
-# Payment App MERN
-
-This is a basic implementation of a **Payment App**, where users can transfer credits to their friends. Please note that this project does **not** support real money transactions. However, the credit transfer functionality is designed to simulate real money transfers for learning purposes.
+This is a implementation of a **Payment App**, where users can transfer credits to their friends. Please note that this project does **not** support real money transactions. However, the credit transfer functionality is designed to simulate real money transfers for learning purposes.
 
 ---
 
